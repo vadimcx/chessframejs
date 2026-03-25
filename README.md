@@ -9,7 +9,7 @@ This chess board is easily integrable with a single file, example below.
 
 ## Preview
 
-A Preview of the chessboard component can be found [here](https://vadimdev.github.io/chessframejs/).
+A Preview of the chessboard component can be found [here](https://v4d1mdev.github.io/chessframejs/).
 
 
 ## Usage
